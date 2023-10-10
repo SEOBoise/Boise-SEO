@@ -1,15 +1,402 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-        <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-           <sitemap>
-
-              <loc>https://seo-boise.com/sitemap_page.xml</loc>
-
-              <lastmod>2023-09-18</lastmod>
-
-           </sitemap>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
+<url>
+  <loc>https://seo-boise.com/</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/services</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/analytics-and-reporting-2</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/affiliate-marketing-1</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/influencer-marketing</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/local-seo-2</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/mobile-marketing-1</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/online-reputation-management-1</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/web-design-and-development-2</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/conversion-rate-optimization-2</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/email-marketing-2</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/content-marketing-3</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/social-media-marketing-1</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/pay-per-click-ppc-advertising-2</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/search-engine-optimization-seo-5</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/blog</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/contact</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/what-are-the-best-digital-marketing-services-5</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/how-do-i-start-a-digital-marketing-agency-for-my-small-business-1</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/can-i-do-digital-marketing-for-my-own-business-1</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/how-do-small-businesses-use-digital-marketing-1</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/terms</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/privacy</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/sitemap</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/boise-idaho</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/meridian-idaho</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/eagle-idaho</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/star-idaho</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/nampa-idaho</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/caldwell-idaho</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/who-are-the-top-3-digital-marketing-firms-in-the-world-3.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/what-is-the-best-digital-marketing-service-provider-1</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/what-is-the-best-online-marketing-site-1</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/who-are-the-big-6-digital-agencies-1</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/what-is-most-popular-in-digital-marketing-1</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/who-are-the-top-3-digital-marketing-firms-in-the-world-2</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/what-are-the-best-digital-marketing-services-4.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/what-is-the-rule-of-59-seconds-in-digital-marketing</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/how-much-do-you-charge-for-digital-marketing-1</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/what-are-the-best-digital-marketing-services-3.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/what-services-are-offered-in-digital-marketing-1</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/how-do-i-start-an-internet-marketing-service-2</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/can-you-make-money-with-internet-marketing-3</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/what-are-some-internet-marketing-services-2</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/what-is-internet-marketing-service-2</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/sitemap_page</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/idaho</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/service.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/things-to-do-and-places-to-visit-in-caldwell-idaho</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/things-to-do-and-places-to-visit-in-nampa-idaho</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/things-to-do-and-places-to-visit-in-star-idaho</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/things-to-do-and-places-to-visit-in-eagle-idaho</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/things-to-do-and-places-to-visit-in-meridian-idaho</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/things-to-do-and-places-to-visit-in-boise-idaho</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/services.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/analytics-and-reporting-2.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/affiliate-marketing-1.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/influencer-marketing.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/local-seo-2.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/mobile-marketing-1.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/online-reputation-management-1.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/web-design-and-development-2.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/conversion-rate-optimization-2.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/email-marketing-2.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/content-marketing-3.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/social-media-marketing-1.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/pay-per-click-ppc-advertising-2.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/search-engine-optimization-seo-5.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/blog.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/contact.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/what-are-the-best-digital-marketing-services-5.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/how-do-i-start-a-digital-marketing-agency-for-my-small-business-1.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/can-i-do-digital-marketing-for-my-own-business-1.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/how-do-small-businesses-use-digital-marketing-1.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/terms.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/privacy.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://seo-boise.com/https://seo-boise.com/sitemap.html</loc>
+  <lastmod>2023-10-10T21:55:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
 
-        </sitemapindex>
+
+</urlset>
